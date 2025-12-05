@@ -11,19 +11,20 @@ export const evmData = {
           wards: [
             {
               wardNo: 1,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
               Ward: {
                 level: "Ward",
-                title: "Vote For പി  െക മൊയ്തീൻ കുട്ടി",
+                title: "Vote For പി കെ മൊയ്തീൻ കുട്ടി",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
                   {
                     id: 2,
-                    name: "പി  െക മൊയ്തീൻ കുട്ടി",
+                    name: "പി കെ മൊയ്തീൻ കുട്ടി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "moideen.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -44,13 +45,13 @@ export const evmData = {
                     id: 1,
                     name: "കെ പ്രീത",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -71,6 +72,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -99,7 +101,13 @@ export const evmData = {
                 title: "Vote For സി പ്രദീപൻ മാസ്റ്റർ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "സി പ്രദീപൻ മാസ്റ്റർ", symbol: "cpim.jpeg", candidateImgName: "pradeepan master.jpeg", },
+                  {
+                    id: 2,
+                    name: "സി പ്രദീപൻ മാസ്റ്റർ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "pradeepan master.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -118,13 +126,13 @@ export const evmData = {
                     id: 1,
                     name: "കെ പ്രീത",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -145,6 +153,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -164,7 +173,7 @@ export const evmData = {
             },
             {
               wardNo: 18,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -179,7 +188,13 @@ export const evmData = {
                     symbol: "",
                     candidateImgName: "dileepan.jpeg",
                   },
-                  { id: 3, name: "ഷമില്‍ പി", symbol: "cpim.jpeg", candidateImgName: "shimil.jpeg", },
+                  {
+                    id: 3,
+                    name: "ഷമില്‍ പി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "shimil.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -197,13 +212,13 @@ export const evmData = {
                     id: 1,
                     name: "കെ പ്രീത",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -224,6 +239,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -243,7 +259,7 @@ export const evmData = {
             },
             {
               wardNo: 19,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -256,6 +272,7 @@ export const evmData = {
                     id: 2,
                     name: "പി രേഷ്മ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "reshma.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -276,13 +293,13 @@ export const evmData = {
                     id: 1,
                     name: "കെ പ്രീത",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -303,6 +320,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -322,7 +340,7 @@ export const evmData = {
             },
             {
               wardNo: 20,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -335,6 +353,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ. സുധാകരന്‍",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "sudhakaran.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -355,13 +374,13 @@ export const evmData = {
                     id: 1,
                     name: "കെ പ്രീത",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -382,6 +401,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -401,7 +421,7 @@ export const evmData = {
             },
             {
               wardNo: 7,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -414,6 +434,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ ബാലകൃഷ്ണന്‍",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "balakrishnan.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -439,6 +460,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -460,6 +482,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -479,7 +502,7 @@ export const evmData = {
             },
             {
               wardNo: 8,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -494,7 +517,13 @@ export const evmData = {
                     symbol: "",
                     candidateImgName: "",
                   },
-                  { id: 3, name: "ഷിനി കെ വി", symbol: "cpim.jpeg", candidateImgName: "shini.jpeg", },
+                  {
+                    id: 3,
+                    name: "ഷിനി കെ വി",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "shini.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -517,6 +546,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -538,6 +568,8 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -557,7 +589,7 @@ export const evmData = {
             },
             {
               wardNo: 9,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -570,6 +602,7 @@ export const evmData = {
                     id: 2,
                     name: "പത്മനാഭന്‍ വി സി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "patnabhavan.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -595,6 +628,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -616,6 +650,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -635,7 +670,7 @@ export const evmData = {
             },
             {
               wardNo: 10,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -650,7 +685,13 @@ export const evmData = {
                     symbol: "",
                     candidateImgName: "",
                   },
-                  { id: 3, name: "പ്രദീപന്‍ പട്ടേരി", symbol: "cpim.jpeg", candidateImgName: "pradeepan.jpeg" },
+                  {
+                    id: 3,
+                    name: "പ്രദീപന്‍ പട്ടേരി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "pradeepan.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -673,6 +714,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -694,6 +736,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -713,7 +756,7 @@ export const evmData = {
             },
             {
               wardNo: 11,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -726,6 +769,7 @@ export const evmData = {
                     id: 2,
                     name: "ടി  ദിലീപൻ മാസ്റ്റർ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "dileepan.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -751,6 +795,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -772,6 +817,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -791,7 +837,7 @@ export const evmData = {
             },
             {
               wardNo: 12,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -804,6 +850,7 @@ export const evmData = {
                     id: 2,
                     name: "ജലജ പി പി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "jalaja.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -829,6 +876,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -850,6 +898,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -869,7 +918,7 @@ export const evmData = {
             },
             {
               wardNo: 13,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -877,12 +926,17 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For ഡോ. ഓമന പങ്കന്‍",
                 candidates: [
-                  { id: 1, name: "ഡോ. ഓമന പങ്കന്‍", symbol: "cpim.jpeg", candidateImgName: "omana.jpeg", },
+                  {
+                    id: 1,
+                    name: "ഡോ. ഓമന പങ്കന്‍",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "omana.jpeg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -907,6 +961,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -928,6 +983,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -947,7 +1003,7 @@ export const evmData = {
             },
             {
               wardNo: 14,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -960,6 +1016,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ ഭാര്‍ഗ്ഗവന്‍",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "bargavan.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -985,6 +1042,7 @@ export const evmData = {
                     id: 2,
                     name: "കെ.സി. രേണുക",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -1006,6 +1064,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1025,7 +1084,7 @@ export const evmData = {
             },
             {
               wardNo: 2,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1038,6 +1097,7 @@ export const evmData = {
                     id: 2,
                     name: "ജയശ്രീ വിജയന്‍",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "jayasree.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -1058,11 +1118,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1083,6 +1143,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1102,7 +1163,7 @@ export const evmData = {
             },
             {
               wardNo: 3,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1110,12 +1171,17 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For രഘുനാഥന്‍ കെ",
                 candidates: [
-                  { id: 1, name: "രഘുനാഥന്‍ കെ", symbol: "cpim.jpeg", candidateImgName: "rakhunath.jpeg", },
+                  {
+                    id: 1,
+                    name: "രഘുനാഥന്‍ കെ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "rakhunath.jpeg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1135,11 +1201,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1160,6 +1226,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1179,7 +1246,7 @@ export const evmData = {
             },
             {
               wardNo: 4,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1187,12 +1254,17 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For അനിത മോഹന്‍",
                 candidates: [
-                  { id: 1, name: "അനിത മോഹന്‍", symbol: "cpim.jpeg", candidateImgName: "anitha.jpeg", },
+                  {
+                    id: 1,
+                    name: "അനിത മോഹന്‍",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "anitha.jpeg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1212,11 +1284,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1237,6 +1309,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1256,7 +1329,7 @@ export const evmData = {
             },
             {
               wardNo: 5,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1264,12 +1337,17 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For മിനി കെ വി",
                 candidates: [
-                  { id: 1, name: "മിനി കെ വി", symbol: "cpim.jpeg", candidateImgName: "mini.jpeg", },
+                  {
+                    id: 1,
+                    name: "മിനി കെ വി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "mini.jpeg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1289,11 +1367,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1314,6 +1392,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1333,7 +1412,7 @@ export const evmData = {
             },
             {
               wardNo: 6,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1346,6 +1425,7 @@ export const evmData = {
                     id: 2,
                     name: "ടി സീത പി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "sita.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -1366,11 +1446,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1391,6 +1471,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1410,7 +1491,7 @@ export const evmData = {
             },
             {
               wardNo: 15,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1423,6 +1504,7 @@ export const evmData = {
                     id: 2,
                     name: "സി ഷൈനി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "shyni.jpeg",
                   },
                   { id: 3, name: "", symbol: "" },
@@ -1443,11 +1525,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1468,6 +1550,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1487,7 +1570,7 @@ export const evmData = {
             },
             {
               wardNo: 16,
-              name: "North Colony",
+              name: "കല്ല്യാശ്ശേരി പഞ്ചായത്ത്",
               ballotUnit: "101",
               blockDivision: "Kanhangad-05",
               districtDivision: "Kasaragod-12",
@@ -1495,12 +1578,17 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For പി വി ഭവാനി",
                 candidates: [
-                  { id: 1, name: "പി വി ഭവാനി", symbol: "cpim.jpeg", candidateImgName: "bhavani.jpeg", },
+                  {
+                    id: 1,
+                    name: "പി വി ഭവാനി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "bhavani.jpeg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1520,11 +1608,11 @@ export const evmData = {
                     id: 1,
                     name: "സി നാരായണി",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
                   {
                     id: 2,
-                    
                   },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -1545,6 +1633,7 @@ export const evmData = {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
                     symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
                   {
@@ -1562,7 +1651,6 @@ export const evmData = {
                 ],
               },
             },
-            
           ],
         },
         {
