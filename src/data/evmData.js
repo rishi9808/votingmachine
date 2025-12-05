@@ -17,10 +17,15 @@ export const evmData = {
               districtDivision: "Kasaragod-12",
               Ward: {
                 level: "Ward",
-                title: "Vote For രാഹുൽ",
+                title: "Vote For ടി ദിലീപൻ മാ:ർ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "രാഹുൽ", symbol: "🖐️" },
+                  {
+                    id: 2,
+                    name: "ടി ദിലീപൻ മാ:ർ",
+                    symbol: "cpim.jpeg",
+                    candidateImgName: "dileepan.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -28,14 +33,19 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
-                title: "Vote For ഷോജി",
+                title: "Vote For കെ പ്രീത ",
                 candidates: [
-                  { id: 1, name: "ഷോജി", symbol: "🗳️" },
+                  {
+                    id: 1,
+                    name: "കെ പ്രീത",
+                    symbol: "cpim.jpeg",
+                    candidateImgName: "preetha.jpeg",
+                  },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -44,8 +54,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -53,16 +63,21 @@ export const evmData = {
                 candidates: [
                   { id: 1, name: "", symbol: "" },
                   { id: 2, name: "", symbol: "" },
-                  { id: 3, name: "സുനിൽ", symbol: "⚡" },
+                  {
+                    id: 3,
+                    name: "വി വി പവിത്രൻ",
+                    symbol: "cpim.jpeg",
+                    candidateImgName: "pavithran.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
             },
             {
               wardNo: 2,
@@ -83,8 +98,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -99,8 +114,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -115,11 +130,11 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
-            }
-          ]
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
+            },
+          ],
         },
         {
           id: 2,
@@ -144,8 +159,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -160,8 +175,8 @@ export const evmData = {
                   { id: 7, name: "അജയ്", symbol: "🔥" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -176,9 +191,9 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "സിന്ധു", symbol: "💎" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
             },
             {
               wardNo: 2,
@@ -199,8 +214,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -215,8 +230,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -231,9 +246,9 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
             },
             {
               wardNo: 3,
@@ -254,8 +269,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -270,8 +285,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "സുമ", symbol: "🌻" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -286,11 +301,11 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "രാജേഷ്", symbol: "🔱" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
-            }
-          ]
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
+            },
+          ],
         },
         {
           id: 3,
@@ -315,8 +330,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -331,8 +346,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -347,9 +362,9 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
             },
             {
               wardNo: 2,
@@ -370,8 +385,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "ബിജു", symbol: "🎨" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -386,8 +401,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               District: {
                 level: "District",
@@ -402,9 +417,9 @@ export const evmData = {
                   { id: 7, name: "ഹരി", symbol: "🎭" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
             },
             {
               wardNo: 3,
@@ -425,8 +440,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
+                  { id: 10, name: "", symbol: "" },
+                ],
               },
               Block: {
                 level: "Block",
@@ -441,8 +456,8 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "ജോയി", symbol: "🎸" }
-                ]
+                  { id: 10, name: "ജോയി", symbol: "🎸" },
+                ],
               },
               District: {
                 level: "District",
@@ -457,28 +472,28 @@ export const evmData = {
                   { id: 7, name: "", symbol: "" },
                   { id: 8, name: "", symbol: "" },
                   { id: 9, name: "", symbol: "" },
-                  { id: 10, name: "", symbol: "" }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    }
-  ]
+                  { id: 10, name: "", symbol: "" },
+                ],
+              },
+            },
+          ],
+        },
+      ],
+    },
+  ],
 };
 
 export const getWardData = (panchayatId, wardNo) => {
   for (const block of evmData.blocks) {
     for (const panchayat of block.panchayats) {
       if (panchayat.id === parseInt(panchayatId)) {
-        const ward = panchayat.wards.find(w => w.wardNo === parseInt(wardNo));
+        const ward = panchayat.wards.find((w) => w.wardNo === parseInt(wardNo));
         if (ward) {
           return {
             ward,
             panchayat,
             block,
-            district: evmData.district
+            district: evmData.district,
           };
         }
       }
@@ -490,20 +505,20 @@ export const getWardData = (panchayatId, wardNo) => {
 export const getLevelTheme = (level) => {
   const themes = {
     Ward: {
-      tabColor: '#9CA3AF',
-      containerColor: '#F3F4F6',
-      borderColor: '#D1D5DB'
+      tabColor: "#9CA3AF",
+      containerColor: "#F3F4F6",
+      borderColor: "#D1D5DB",
     },
     Block: {
-      tabColor: '#EC4899',
-      containerColor: '#FCE7F3',
-      borderColor: '#F9A8D4'
+      tabColor: "#EC4899",
+      containerColor: "#FCE7F3",
+      borderColor: "#F9A8D4",
     },
     District: {
-      tabColor: '#0891B2',
-      containerColor: '#E0F2FE',
-      borderColor: '#7DD3FC'
-    }
+      tabColor: "#0891B2",
+      containerColor: "#E0F2FE",
+      borderColor: "#7DD3FC",
+    },
   };
   return themes[level] || themes.Ward;
 };
