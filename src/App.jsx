@@ -7,6 +7,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
+          <Route path="/" element={<EVMPage />} />
           <Route path="/vote/:locationId" element={<EVMPage />} />
           <Route path="*" element={
             <div style={{ 

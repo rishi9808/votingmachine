@@ -1,5 +1,1 @@
-# Redirect all routes to index.html for SPA
 /*    /index.html   200
-
-# Specific routes for voting
-/vote/*    /index.html   200
