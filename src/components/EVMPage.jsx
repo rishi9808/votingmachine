@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { evmLocations, getLevelTheme } from '../data/evmData';
+import { getWardData, getLevelTheme } from '../data/evmData';
 
 const EVMPage = () => {
-  const { locationId } = useParams();
+  const { panchayatId, wardNo } = useParams();
   const [currentLevel, setCurrentLevel] = useState('Ward');
   const [locationData, setLocationData] = useState(null);
   const [theme, setTheme] = useState(null);
@@ -13,19 +13,18 @@ const EVMPage = () => {
   const [currentLocationId, setCurrentLocationId] = useState(null);
 
   useEffect(() => {
-    // Set location ID (default to 1 if not provided)
-    const locId = locationId || '1';
-    setCurrentLocationId(locId);
+    const pId = panchayatId || '1';
+    const wNo = wardNo || '1';
+    setCurrentLocationId(`${pId}/${wNo}`);
     
-    // Default to Ward level
     setCurrentLevel('Ward');
-    updateData('Ward', locId);
-  }, [locationId]);
+    updateData('Ward', pId, wNo);
+  }, [panchayatId, wardNo]);
 
-  const updateData = (level, locId = currentLocationId) => {
-    const locationData = evmLocations[locId];
-    if (locationData && locationData[level]) {
-      setLocationData(locationData[level]);
+  const updateData = (level, pId = panchayatId || '1', wNo = wardNo || '1') => {
+    const data = getWardData(pId, wNo);
+    if (data && data.ward && data.ward[level]) {
+      setLocationData(data.ward[level]);
       setTheme(getLevelTheme(level));
     }
   };
@@ -297,7 +296,10 @@ const EVMPage = () => {
               fontWeight: 'bold', 
               color: '#333' 
             }}>
-              {evmLocations[currentLocationId]?.locationName || 'Location'} - Ballot Unit {currentLocationId}
+              Ballot Unit {(() => {
+                const data = getWardData(panchayatId || '1', wardNo || '1');
+                return data?.ward?.ballotUnit || '1';
+              })()}
             </div>
           </div>
 
