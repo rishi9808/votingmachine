@@ -13,10 +13,6 @@ const EVMPage = () => {
   const [currentLocationId, setCurrentLocationId] = useState(null);
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
-  console.log("EVMPage rendered with:", {
-    panchayatId,
-    wardNo,
-  });
   // Handle window resize for responsiveness
   useEffect(() => {
     const handleResize = () => setWindowWidth(window.innerWidth);
@@ -156,91 +152,249 @@ const EVMPage = () => {
       <div
         style={{
           minHeight: "100vh",
-          backgroundColor: "#f5f5f5",
+          width: "100%",
+          position: "relative",
           fontFamily: "Arial, sans-serif",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          padding: isMobile ? "20px" : "0",
+          overflow: "hidden", // Prevents scroll from blur
+          backgroundColor: "#f3f4f6",
         }}
       >
+        {/* 1. Blurred Background Layer */}
         <div
           style={{
-            backgroundColor: "white",
-            borderRadius: isMobile ? "15px" : "20px",
-            padding: isMobile ? "30px 20px" : "40px",
-            textAlign: "center",
-            boxShadow: "0 4px 20px rgba(0, 0, 0, 0.1)",
-            maxWidth: isMobile ? "90%" : "400px",
+            position: "absolute",
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            backgroundImage: selectedCandidate?.candidateImgName
+              ? `url(/candidate/${selectedCandidate.candidateImgName})`
+              : "none",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            filter: "blur(15px) brightness(0.9)",
+            transform: "scale(1.1)", // Scale up slightly to hide blur edges
+            zIndex: 0,
+          }}
+        />
+
+        {/* 2. White Gradient Overlay from bottom to mid */}
+        <div
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            background:
+              "linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.8) 25%, rgba(255, 255, 255, 0) 50%)",
+            zIndex: 1,
+          }}
+        />
+
+        {/* Main Content Wrapper */}
+        <div
+          style={{
+            position: "relative",
+            zIndex: 10,
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            padding: "20px",
             width: "100%",
           }}
         >
-          {selectedCandidate?.candidateImgName ? (
-            <img
-              src={`/candidate/${selectedCandidate.candidateImgName}`}
-              alt={selectedCandidate.name}
-              style={{
-                width: isMobile ? "120px" : "150px",
-                height: isMobile ? "120px" : "150px",
-                borderRadius: "50%",
-                objectFit: "contain",
-                marginBottom: isMobile ? "15px" : "20px",
-                border: "4px solid #10B981",
-              }}
-              onError={(e) => {
-                e.target.style.display = "none";
-                e.target.nextSibling.style.display = "block";
-              }}
-            />
-          ) : null}
+          {/* 2. The White Card */}
           <div
             style={{
-              fontSize: isMobile ? "3rem" : "4rem",
-              marginBottom: isMobile ? "15px" : "20px",
-              display: selectedCandidate?.candidateImgName ? "none" : "block",
+              backgroundColor: "white",
+              borderRadius: "20px",
+              padding: "16px",
+              width: isMobile ? "280px" : "320px",
+              boxShadow: "0 10px 25px rgba(0,0,0,0.2)",
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
             }}
           >
-            ✅
+            {/* Image Container */}
+            <div style={{ position: "relative", width: "100%" }}>
+              {/* Candidate Image */}
+              {selectedCandidate?.candidateImgName ? (
+                <img
+                  src={`/candidate/${selectedCandidate.candidateImgName}`}
+                  alt={selectedCandidate.name}
+                  style={{
+                    width: "100%",
+                    aspectRatio: "1/1",
+                    objectFit: "cover",
+                    borderRadius: "15px",
+                    display: "block",
+                  }}
+                  onError={(e) => {
+                    e.target.style.display = "none";
+                  }}
+                />
+              ) : (
+                <div
+                  style={{
+                    width: "100%",
+                    aspectRatio: "1/1",
+                    borderRadius: "15px",
+                    backgroundColor: "#E5E7EB",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    fontSize: "4rem",
+                  }}
+                >
+                  ✅
+                </div>
+              )}
+
+              {/* VOTED Badge (Top Right inside image) */}
+              <div
+                style={{
+                  position: "absolute",
+                  top: "10px",
+                  right: "10px",
+                  backgroundColor: "#DC2626", // Red
+                  color: "white",
+                  padding: "4px 12px",
+                  borderRadius: "20px",
+                  fontSize: "12px",
+                  fontWeight: "bold",
+                  letterSpacing: "0.5px",
+                  boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+                }}
+              >
+                VOTED
+              </div>
+            </div>
+
+            {/* Candidate Name */}
+            <div
+              style={{
+                marginTop: "20px",
+                marginBottom: "15px",
+                textAlign: "center",
+              }}
+            >
+              <span
+                style={{
+                  fontSize: "22px",
+                  fontWeight: "bold",
+                  color: "#991b1b", // Dark Red text
+                  lineHeight: "1.2",
+                }}
+              >
+                {selectedCandidate?.name}
+              </span>
+            </div>
+
+            {/* Separator Line */}
+            <div
+              style={{
+                width: "100%",
+                height: "1px",
+                backgroundColor: "#e5e7eb",
+                marginBottom: "15px",
+              }}
+            />
+
+            {/* Footer Info (Ward + Symbol) */}
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                alignItems: "center",
+                width: "100%",
+                paddingBottom: "5px",
+              }}
+            >
+              {/* Ward Info */}
+              <div style={{ display: "flex", flexDirection: "column" }}>
+                {currentLevel === "Ward" && (
+                  <span
+                    style={{
+                      fontSize: "14px",
+                      color: "#374151",
+                      fontWeight: "500",
+                    }}
+                  >
+                    {(() => {
+                      const data = getWardData(
+                        panchayatId || "1",
+                        wardNo || "1"
+                      );
+                      return `Ward ${data?.ward?.wardNo || wardNo || "1"} - ${
+                        data?.ward?.name || ""
+                      }`;
+                    })()}
+                  </span>
+                )}
+              </div>
+
+              {/* Symbol */}
+              {(selectedCandidate?.successSymbol ||
+                selectedCandidate?.symbol) && (
+                <img
+                  src={`/symbols/${
+                    selectedCandidate?.successSymbol ||
+                    selectedCandidate?.symbol
+                  }`}
+                  alt="Symbol"
+                  style={{
+                    width: "40px",
+                    height: "40px",
+                    objectFit: "contain",
+                  }}
+                  onError={(e) => {
+                    e.target.style.display = "none";
+                  }}
+                />
+              )}
+            </div>
           </div>
-          <h2
-            style={{
-              color: "#10B981",
-              fontSize: isMobile ? "1.5rem" : "2rem",
-              marginBottom: isMobile ? "10px" : "15px",
-              fontWeight: "bold",
-            }}
-          >
-            Voting Successful!
-          </h2>
-          <p
-            style={{
-              color: "#666",
-              fontSize: isMobile ? "1rem" : "1.1rem",
-              marginBottom: isMobile ? "25px" : "30px",
-              lineHeight: "1.5",
-            }}
-          >
-            Your vote has been recorded successfully.
-          </p>
+
+          {/* 3. Vote Again Button (Floating Below) */}
           <button
             onClick={handleRepeat}
             style={{
-              backgroundColor: "#059669",
+              marginTop: "20px",
+              backgroundColor: "#b91c1c", // Deep Red
               color: "white",
               border: "none",
-              padding: isMobile ? "12px 25px" : "15px 30px",
-              borderRadius: isMobile ? "8px" : "10px",
-              fontSize: isMobile ? "14px" : "16px",
-              fontWeight: "bold",
+              padding: "12px 0",
+              width: isMobile ? "280px" : "320px", // Match card width
+              borderRadius: "10px",
+              fontSize: "16px",
+              fontWeight: "600",
               cursor: "pointer",
-              touchAction: "manipulation",
-              WebkitTapHighlightColor: "transparent",
-              minWidth: isMobile ? "120px" : "140px",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: "8px",
+              boxShadow: "0 4px 6px rgba(0,0,0,0.2)",
             }}
-            onMouseOver={(e) => (e.target.style.backgroundColor = "#047857")}
-            onMouseOut={(e) => (e.target.style.backgroundColor = "#059669")}
           >
             Vote Again
+            {/* Simple User Icon SVG */}
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="currentColor"
+              style={{ width: "20px", height: "20px" }}
+            >
+              <path
+                fillRule="evenodd"
+                d="M7.5 6a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM3.751 20.105a8.25 8.25 0 0116.498 0 .75.75 0 01-.437.695A18.683 18.683 0 0112 22.5c-2.786 0-5.433-.608-7.812-1.7a.75.75 0 01-.437-.695z"
+                clipRule="evenodd"
+              />
+            </svg>
           </button>
         </div>
       </div>
