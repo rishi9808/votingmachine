@@ -1139,7 +1139,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1197,11 +1197,11 @@ export const evmData = {
               districtDivision: "Kasaragod-12",
               Ward: {
                 level: "Ward",
-                title: "Vote For രാഘുനാഥൻ",
+                title: "Vote For കെ രാഘുനാഥൻ",
                 candidates: [
                   {
                     id: 1,
-                    name: "രാഘുനാഥൻ",
+                    name: "കെ രാഘുനാഥൻ",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "rakhunath.jpeg",
@@ -1224,7 +1224,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1309,7 +1309,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1394,7 +1394,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1475,7 +1475,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1556,7 +1556,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1641,7 +1641,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
-                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - കെ കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
