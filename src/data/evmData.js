@@ -1699,7 +1699,7 @@ export const evmData = {
           wards: [
             {
               wardNo: 15,
-              name: "Kalliyot",
+              name: "ആന്തൂർ മുൻസിപ്പൽ",
               ballotUnit: "201",
               blockDivision: "Kanhangad-07",
               districtDivision: "Kasaragod-14",
@@ -1759,7 +1759,7 @@ export const evmData = {
             },
             {
               wardNo: 20,
-              name: "Nileshwar North",
+              name: "ആന്തൂർ മുൻസിപ്പൽ",
               ballotUnit: "202",
               blockDivision: "Kanhangad-07",
               districtDivision: "Kasaragod-14",
@@ -1818,7 +1818,7 @@ export const evmData = {
             },
             {
               wardNo: 17,
-              name: "Bellur",
+              name: "ആന്തൂർ മുൻസിപ്പൽ",
               ballotUnit: "203",
               blockDivision: "Kanhangad-08",
               districtDivision: "Kasaragod-15",
@@ -1877,7 +1877,7 @@ export const evmData = {
             },
             {
               wardNo: 16,
-              name: "Bellur",
+              name: "ആന്തൂർ മുൻസിപ്പൽ",
               ballotUnit: "203",
               blockDivision: "Kanhangad-08",
               districtDivision: "Kasaragod-15",
