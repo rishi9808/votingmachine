@@ -271,12 +271,12 @@ export const evmData = {
               districtDivision: "Kasaragod-12",
               Ward: {
                 level: "Ward",
-                title: "Vote For പി രേഷ്മ",
+                title: "Vote For രേഷ്മ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
                   {
                     id: 2,
-                    name: "പി രേഷ്മ",
+                    name: "രേഷ്മ",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "reshma.jpeg",
@@ -460,7 +460,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -548,7 +548,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -632,7 +632,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -720,7 +720,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -803,7 +803,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -886,7 +886,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -973,7 +973,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1056,7 +1056,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For കെ.സി. രേണുക",
-                name:"കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക് പഞ്ചായത്ത് - കല്ല്യാശ്ശേരി ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1707,11 +1707,12 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For ഷീന കെ പി",
                 candidates: [
-                  { id: 1, 
-                    name: "ഷീന കെ പി", 
-                    symbol: "cpim.jpeg", 
+                  {
+                    id: 1,
+                    name: "ഷീന കെ പി",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenaanthoor.jpeg", 
+                    candidateImgName: "sheenaanthoor.jpeg",
                   },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
@@ -1767,10 +1768,12 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For നിജില കെ വി",
                 candidates: [
-                  { id: 1, name: "നിജില കെ വി", 
-                    symbol: "cpim.jpeg", 
+                  {
+                    id: 1,
+                    name: "നിജില കെ വി",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "nijila.jpeg",  
+                    candidateImgName: "nijila.jpeg",
                   },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
@@ -1826,10 +1829,12 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For കെ ഭരതൻ",
                 candidates: [
-                  { id: 1, name: "കെ ഭരതൻ", 
-                    symbol: "cpim.jpeg", 
+                  {
+                    id: 1,
+                    name: "കെ ഭരതൻ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "barathananthoor.jpeg", 
+                    candidateImgName: "barathananthoor.jpeg",
                   },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
@@ -1885,10 +1890,12 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For കെ ദിലീപൻ",
                 candidates: [
-                  { id: 1, name: "കെ ദിലീപൻ", 
-                    symbol: "cpim.jpeg", 
+                  {
+                    id: 1,
+                    name: "കെ ദിലീപൻ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "dileepananthoor.jpeg", 
+                    candidateImgName: "dileepananthoor.jpeg",
                   },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
