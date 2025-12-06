@@ -1139,6 +1139,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1223,6 +1224,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1307,6 +1309,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1391,6 +1394,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1471,6 +1475,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1551,6 +1556,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
@@ -1635,6 +1641,7 @@ export const evmData = {
               Block: {
                 level: "Block",
                 title: "Vote For സി നാരായണി",
+                name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് -  െക കണ്ണപുരം ഡിവിഷൻ",
                 candidates: [
                   {
                     id: 1,
