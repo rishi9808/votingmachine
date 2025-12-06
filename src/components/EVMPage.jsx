@@ -352,6 +352,17 @@ const EVMPage = () => {
                     {locationData?.name || "Block"}
                   </span>
                 )}
+                {currentLevel === "District" && (
+                  <span
+                    style={{
+                      fontSize: "14px",
+                      color: "#374151",
+                      fontWeight: "500",
+                    }}
+                  >
+                    {locationData?.name || "District"}
+                  </span>
+                )}
               </div>
 
               {/* Symbol */}
