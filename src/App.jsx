@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import EVMPage from "./components/EVMPage";
+import AdminPage from "./components/AdminPage";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <div className="App">
         <Routes>
           <Route path="/" element={<EVMPage />} />
+          <Route path="/admin" element={<AdminPage />} />
           <Route path="/vote/:panchayatId/:wardNo" element={<EVMPage />} />
           <Route
             path="*"
