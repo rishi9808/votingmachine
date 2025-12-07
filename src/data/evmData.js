@@ -1947,7 +1947,7 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
                     candidateImgName: "apradeepan.jpg", },
                   {
                     id: 2,
