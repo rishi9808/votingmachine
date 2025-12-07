@@ -1743,12 +1743,12 @@ export const evmData = {
                   },
                   {
                     id: 2,
-                    name: "എ വി സത്യൻ",
-                    symbol: "cpim.jpeg",
-                    successSymbol: "cpim-success.png",
-                    candidateImgName: "satyan.jpeg",
+                    name: "",
+                    symbol: "",
+                    
                   },
-                  { id: 3, name: "", symbol: "" },
+                  { id: 3, name: "എ വി സത്യൻ", symbol: "cpim.jpeg",successSymbol: "cpim-success.png",
+                    candidateImgName: "satyan.jpeg", },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
