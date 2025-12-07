@@ -2367,9 +2367,9 @@ export const evmData = {
               districtDivision: "Kasaragod-16",
               Ward: {
                 level: "Ward",
-                title: "Vote For അബ്ദുൽ സലാം വി വി  ",
+                title: "Vote For അബ്ദുൽ സലാം വി പി",
                 candidates: [
-                  { id: 1, name: "അബ്ദുൽ സലാം വി വി  ", 
+                  { id: 1, name: "അബ്ദുൽ സലാം വി പി", 
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "abdulsalam.jpeg", },
@@ -2438,7 +2438,7 @@ export const evmData = {
                      },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "കെ മോഹനൻ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "kmohanan.jpeg", },
+                    candidateImgName: "kmohan.jpeg", },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
