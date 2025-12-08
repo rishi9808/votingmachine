@@ -2009,7 +2009,7 @@ export const evmData = {
                     name: "സജിത പി വി",
                     symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "vipinabp.jpeg",
+                    candidateImgName: "sajithapv.jpeg",
                   },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
