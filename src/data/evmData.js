@@ -1745,10 +1745,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "എ വി സത്യൻ", symbol: "cpim.jpeg",successSymbol: "cpim-success.png",
-                    candidateImgName: "satyan.jpeg", },
+                  {
+                    id: 3,
+                    name: "എ വി സത്യൻ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "satyan.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -1805,10 +1809,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "പി കെ ശശിധരൻ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "pksasidaran.jpeg", },
+                  {
+                    id: 3,
+                    name: "പി കെ ശശിധരൻ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "pksasidaran.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -1837,7 +1845,7 @@ export const evmData = {
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shanmugan.jpeg",
                   },
-                  { id: 3, name: "", symbol: "", },
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -1875,7 +1883,6 @@ export const evmData = {
                 ],
               },
             },
-
           ],
         },
         {
@@ -1901,10 +1908,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "വിപിന ബി പി", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "vipinabp.jpeg", },
+                  {
+                    id: 3,
+                    name: "വിപിന ബി പി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "vipinabp.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -1924,15 +1935,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -1947,13 +1957,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -1989,10 +2003,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "സജിത പി വി", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "vipinabp.jpeg", },
+                  {
+                    id: 3,
+                    name: "സജിത പി വി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "vipinabp.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2012,15 +2030,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2035,13 +2052,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2077,10 +2098,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "രാഘവൻ പി പി", symbol: "randila.png", successSymbol: "randila.png",
-                    candidateImgName: "RAGHAVANpp.jpg", },
+                  {
+                    id: 3,
+                    name: "രാഘവൻ പി പി",
+                    symbol: "randila.png",
+                    successSymbol: "randila.png",
+                    candidateImgName: "RAGHAVANpp.jpg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2100,15 +2125,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2123,13 +2147,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2159,16 +2187,16 @@ export const evmData = {
                   {
                     id: 1,
                     name: "അമ്മുക്കുട്ടി കെ സി",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "ammukuttikc.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2188,15 +2216,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2211,13 +2238,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2247,16 +2278,16 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ലത ടി കെ",
-                    symbol: "carlogo.png", successSymbol: "carlogo.png",
+                    symbol: "carlogo.png",
+                    successSymbol: "carlogo.png",
                     candidateImgName: "lathachengalai.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2276,15 +2307,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2299,13 +2329,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2335,16 +2369,16 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ബിജു ടി",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "bijutchengalai.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2364,15 +2398,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2387,13 +2420,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2429,10 +2466,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "ശൈലേഷ് ബാബു", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "shyleshbabu.jpg", },
+                  {
+                    id: 3,
+                    name: "ശൈലേഷ് ബാബു",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "shyleshbabu.jpg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2452,15 +2493,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2475,13 +2515,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2511,16 +2555,16 @@ export const evmData = {
                   {
                     id: 1,
                     name: "മഞ്ജു പ്രദീപ് ",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "vipinabp.jpeg", 
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "vipinabp.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2540,15 +2584,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2563,13 +2606,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2599,16 +2646,16 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എൻ നാരായണൻ ",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "nnarayananchangalai.jpg", 
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "nnarayananchangalai.jpg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2628,15 +2675,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2651,13 +2697,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2693,10 +2743,14 @@ export const evmData = {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "പി കെ സിന്ധു ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "vipinabp.jpeg", },
+                  {
+                    id: 3,
+                    name: "പി കെ സിന്ധു ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "vipinabp.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2716,15 +2770,14 @@ export const evmData = {
                     name: "എ വി ഭവാനി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "avbhavani.jpeg", 
+                    candidateImgName: "avbhavani.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2739,13 +2792,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2780,11 +2837,11 @@ export const evmData = {
                   {
                     id: 2,
                     name: "പി വി രാജൻ",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "rajanchengalai.jpeg",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2808,10 +2865,9 @@ export const evmData = {
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2826,13 +2882,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2869,10 +2929,9 @@ export const evmData = {
                   {
                     id: 2,
                     name: "",
-                    symbol: "", 
-                    
+                    symbol: "",
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2890,7 +2949,6 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                     
                   },
                   {
                     id: 2,
@@ -2898,9 +2956,8 @@ export const evmData = {
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2915,13 +2972,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -2956,11 +3017,11 @@ export const evmData = {
                   {
                     id: 2,
                     name: "നസീമ ടി പി",
-                    symbol: "balancescale.png", successSymbol: "balancescale.png",
+                    symbol: "balancescale.png",
+                    successSymbol: "balancescale.png",
                     candidateImgName: "naseematp.jpeg",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -2978,17 +3039,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3003,13 +3062,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3044,11 +3107,11 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ഭാസ്കരൻ എം കെ",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "baskaranchengalai.jpeg",
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3066,17 +3129,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3091,13 +3152,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3132,11 +3197,14 @@ export const evmData = {
                   {
                     id: 2,
                     name: "",
-                    
-                    
                   },
-                  { id: 3, name: "സാബിറ ടീച്ചർ ", symbol: "umbrella.png", successSymbol: "umbrella.png",
-                    candidateImgName: "sabirateacher.jpeg", },
+                  {
+                    id: 3,
+                    name: "സാബിറ ടീച്ചർ ",
+                    symbol: "umbrella.png",
+                    successSymbol: "umbrella.png",
+                    candidateImgName: "sabirateacher.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3154,7 +3222,6 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                     
                   },
                   {
                     id: 2,
@@ -3162,9 +3229,8 @@ export const evmData = {
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
-                    
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3179,13 +3245,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3215,16 +3285,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എം വി ബിന്ദു ",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "bindumvchengalai.jpeg",
                   },
                   {
                     id: 2,
                     name: "",
-                    
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3242,17 +3311,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3267,13 +3334,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3303,16 +3374,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "മൂസാൻ എൻ സി",
-                    symbol: "moosansymbol.png", successSymbol: "moosan-success.png",
+                    symbol: "moosansymbol.png",
+                    successSymbol: "moosan-success.png",
                     candidateImgName: "moosannc.jpg",
                   },
                   {
                     id: 2,
                     name: "",
-                    
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3330,17 +3400,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3355,13 +3423,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3396,11 +3468,11 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ കെ രവി മാസ്റ്റർ",
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "rajanchengalai.jpeg",
-                    
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "ravimaster.jpeg",
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3418,17 +3490,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3443,13 +3513,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3479,16 +3553,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ഖൈറുന്നിസ കെ ",
-                    symbol: "umbrella.png", successSymbol: "umbrella.png",
+                    symbol: "umbrella.png",
+                    successSymbol: "umbrella.png",
                     candidateImgName: "qairunisak.jpg",
                   },
                   {
                     id: 2,
                     name: "",
-                    
-                    
                   },
-                  { id: 3, name: "",  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3506,17 +3579,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3531,13 +3602,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3572,11 +3647,14 @@ export const evmData = {
                   {
                     id: 2,
                     name: "",
-                    
-                    
                   },
-                  { id: 3, name: "കെ സുനീഷ് ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "rajanchengalai.jpeg",  },
+                  {
+                    id: 3,
+                    name: "കെ സുനീഷ് ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "ksuneesh.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3594,17 +3672,15 @@ export const evmData = {
                   {
                     id: 1,
                     name: "",
-                    
                   },
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "bindusuneesh.jpg", 
-                    
+                    candidateImgName: "bindusuneesh.jpg",
                   },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -3619,13 +3695,17 @@ export const evmData = {
                 title: "Vote For എ പ്രദീപൻ ",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - കുറുമാത്തൂർ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എ പ്രദീപൻ", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "apradeepan.jpg", },
+                  {
+                    id: 1,
+                    name: "എ പ്രദീപൻ",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "apradeepan.jpg",
+                  },
                   {
                     id: 2,
                     name: "",
                     symbol: "",
-                    
                   },
                   {
                     id: 3,
@@ -3642,10 +3722,6 @@ export const evmData = {
                 ],
               },
             },
-
-
-            
-
           ],
         },
 
@@ -3733,13 +3809,17 @@ export const evmData = {
                     name: "",
                     symbol: "",
                   },
-                  { id: 2, name: "പി ആർ വേണു", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "venu.jpeg", },
+                  {
+                    id: 2,
+                    name: "പി ആർ വേണു",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "venu.jpeg",
+                  },
                   {
                     id: 3,
                     name: "",
                     symbol: "",
-                    
                   },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4041,10 +4121,14 @@ export const evmData = {
                     id: 1,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 2, name: "ടി കെ പ്രഭാകരൻ", symbol: "cpim.jpeg",successSymbol: "cpim-success.png",
-                    candidateImgName: "kavumbai.jpeg", },
+                  {
+                    id: 2,
+                    name: "ടി കെ പ്രഭാകരൻ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "kavumbai.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4101,11 +4185,11 @@ export const evmData = {
                   {
                     id: 1,
                     name: "പ്രീന അജയൻ",
-                    symbol: "cpim.jpeg",successSymbol: "cpim-success.png",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "preena.jpeg",
-                    
                   },
-                  { id: 2, name: "",  },
+                  { id: 2, name: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4163,11 +4247,15 @@ export const evmData = {
                     id: 1,
                     name: "",
                     symbol: "",
-                    
                   },
-                  { id: 2, name: "",  },
-                  { id: 3, name: "എം രാജേഷ്", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "rajeshnaduvil.jpeg", },
+                  { id: 2, name: "" },
+                  {
+                    id: 3,
+                    name: "എം രാജേഷ്",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "rajeshnaduvil.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4226,10 +4314,13 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For പ്രസന്ന കെ ",
                 candidates: [
-                  { id: 1, name: "പ്രസന്ന കെ ", 
+                  {
+                    id: 1,
+                    name: "പ്രസന്ന കെ ",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "prasanecherukunnu.jpeg", },
+                    candidateImgName: "prasanecherukunnu.jpeg",
+                  },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -4247,9 +4338,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - പഴയങ്ങാടി ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "വി.കെ. വിജയൻ", symbol: "cpi.jpeg",
+                  {
+                    id: 2,
+                    name: "വി.കെ. വിജയൻ",
+                    symbol: "cpi.jpeg",
                     successSymbol: "cpi-success.png",
-                    candidateImgName: "vijayancherukunnu.jpeg", },
+                    candidateImgName: "vijayancherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4265,9 +4360,13 @@ export const evmData = {
                 title: "Vote For അബ്ദുൾ നിസാർ വായിപ്പറമ്പ്",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - മാട്ടൂൽ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "അബ്ദുൾ നിസാർ വായിപ്പറമ്പ്", symbol: "cpi.jpeg",
+                  {
+                    id: 1,
+                    name: "അബ്ദുൾ നിസാർ വായിപ്പറമ്പ്",
+                    symbol: "cpi.jpeg",
                     successSymbol: "cpi-success.png",
-                    candidateImgName: "nisar.jpeg",  },
+                    candidateImgName: "nisar.jpeg",
+                  },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -4290,10 +4389,13 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For അബ്ദുൽ സലാം വി പി",
                 candidates: [
-                  { id: 1, name: "അബ്ദുൽ സലാം വി പി", 
+                  {
+                    id: 1,
+                    name: "അബ്ദുൽ സലാം വി പി",
                     symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "abdulsalam.jpeg", },
+                    candidateImgName: "abdulsalam.jpeg",
+                  },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -4311,9 +4413,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - പഴയങ്ങാടി ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "വി.കെ. വിജയൻ", symbol: "cpi.jpeg",
+                  {
+                    id: 2,
+                    name: "വി.കെ. വിജയൻ",
+                    symbol: "cpi.jpeg",
                     successSymbol: "cpi-success.png",
-                    candidateImgName: "vijayancherukunnu.jpeg", },
+                    candidateImgName: "vijayancherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4329,9 +4435,13 @@ export const evmData = {
                 title: "Vote For അബ്ദുൾ നിസാർ വായിപ്പറമ്പ്",
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - മാട്ടൂൽ ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "അബ്ദുൾ നിസാർ വായിപ്പറമ്പ്", symbol: "cpi.jpeg",
+                  {
+                    id: 1,
+                    name: "അബ്ദുൾ നിസാർ വായിപ്പറമ്പ്",
+                    symbol: "cpi.jpeg",
                     successSymbol: "cpi-success.png",
-                    candidateImgName: "nisar.jpeg",  },
+                    candidateImgName: "nisar.jpeg",
+                  },
                   { id: 2, name: "", symbol: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
@@ -4354,12 +4464,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For കെ മോഹനൻ",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
+                  { id: 1, name: "", symbol: "" },
                   { id: 2, name: "", symbol: "" },
-                  { id: 3, name: "കെ മോഹനൻ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "kmohan.jpeg", },
+                  {
+                    id: 3,
+                    name: "കെ മോഹനൻ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "kmohan.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4375,9 +4488,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4394,9 +4511,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4418,12 +4539,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For എം ശൈലജ ",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "എം ശൈലജ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "shylajacherukunnuu.jpeg",  },
-                  { id: 3, name: "", symbol: "",},
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "എം ശൈലജ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "shylajacherukunnuu.jpeg",
+                  },
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4439,9 +4563,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4458,9 +4586,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4482,12 +4614,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For ലത പി കെ",
                 candidates: [
-                  { id: 1, name: "ലത പി കെ", 
-                    symbol: "cpim.jpeg",successSymbol: "cpim-success.png",
-                    candidateImgName: "lathapk.jpeg", 
-                     },
+                  {
+                    id: 1,
+                    name: "ലത പി കെ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "lathapk.jpeg",
+                  },
                   { id: 2, name: "", symbol: "" },
-                  { id: 3, name: "", symbol: "", },
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4503,9 +4638,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4522,9 +4661,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4546,12 +4689,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For അനിത മഗേഷ്",
                 candidates: [
-                  { id: 1, name: "അനിത മഗേഷ്", 
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
+                  {
+                    id: 1,
+                    name: "അനിത മഗേഷ്",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
                     candidateImgName: "anithamagesh.jpeg",
-                     },
+                  },
                   { id: 2, name: "", symbol: "" },
-                  { id: 3, name: "", symbol: "",  },
+                  { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4567,9 +4713,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4586,9 +4736,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4610,12 +4764,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For ഷാജി കെ",
                 candidates: [
-                  { id: 1, name: "ഷാജി കെ", 
-                    symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "shajik.jpeg", 
-                     },
-                  { id: 2, name: "",  },
-                  { id: 3, name: "", },
+                  {
+                    id: 1,
+                    name: "ഷാജി കെ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "shajik.jpeg",
+                  },
+                  { id: 2, name: "" },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4631,9 +4788,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4650,9 +4811,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4674,12 +4839,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For പ്രീത ഇ വി",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "പ്രീത ഇ വി", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "preethacherukunnu.jpeg",  },
-                  { id: 3, name: "", },
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "പ്രീത ഇ വി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "preethacherukunnu.jpeg",
+                  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4695,9 +4863,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4714,9 +4886,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4738,12 +4914,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For മോഹനൻ കെ",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "മോഹനൻ കെ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "mohanancherukunnu.jpeg", },
-                  { id: 3, name: "",  },
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "മോഹനൻ കെ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "mohanancherukunnu.jpeg",
+                  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4759,9 +4938,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4778,9 +4961,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4802,12 +4989,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For സുനിത പി",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "സുനിത പി", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "sunithap.jpeg",  },
-                  { id: 3, name: "", },
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "സുനിത പി",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "sunithap.jpeg",
+                  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4823,9 +5013,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4842,9 +5036,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4866,12 +5064,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For ഹരിദാസൻ കെ",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
+                  { id: 1, name: "", symbol: "" },
                   { id: 2, name: "", symbol: "" },
-                  { id: 3, name: "ഹരിദാസൻ കെ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "haridasank.jpeg", },
+                  {
+                    id: 3,
+                    name: "ഹരിദാസൻ കെ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "haridasank.jpeg",
+                  },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4887,9 +5088,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4906,9 +5111,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4930,12 +5139,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For റോജസ് എം",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "റോജസ് എം", symbol: "cpi.jpeg", successSymbol: "cpi-success.png",
-                    candidateImgName: "rojas.jpeg", },
-                  { id: 3, name: "", },
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "റോജസ് എം",
+                    symbol: "cpi.jpeg",
+                    successSymbol: "cpi-success.png",
+                    candidateImgName: "rojas.jpeg",
+                  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -4951,9 +5163,13 @@ export const evmData = {
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിഷിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "ടി നിഷ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "ടി നിഷ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "tnisha.jpeg", },
+                    candidateImgName: "tnisha.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4970,9 +5186,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -4994,12 +5214,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For സരസ്വതി കെ",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "സരസ്വതി കെ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "saraswatik.jpeg", },
-                  { id: 3, name: "", },
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "സരസ്വതി കെ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "saraswatik.jpeg",
+                  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -5014,10 +5237,14 @@ export const evmData = {
                 title: "Vote For എം ഗണേശൻ",
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ഇടക്കേപ്പുറം  ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എം ഗണേശൻ", symbol: "cpim.jpeg",
+                  {
+                    id: 1,
+                    name: "എം ഗണേശൻ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "ganeshan.jpeg", },
-                  { id: 2, name: "",  },
+                    candidateImgName: "ganeshan.jpeg",
+                  },
+                  { id: 2, name: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -5034,9 +5261,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -5058,12 +5289,15 @@ export const evmData = {
                 level: "Ward",
                 title: "Vote For അബ്ദുൽ റഹിമാൻ ഓ",
                 candidates: [
-                  { id: 1, name: "", 
-                    symbol: "",
-                     },
-                  { id: 2, name: "അബ്ദുൽ റഹിമാൻ ഓ", symbol: "cpim.jpeg", successSymbol: "cpim-success.png",
-                    candidateImgName: "rahimano.jpeg", },
-                  { id: 3, name: "", },
+                  { id: 1, name: "", symbol: "" },
+                  {
+                    id: 2,
+                    name: "അബ്ദുൽ റഹിമാൻ ഓ",
+                    symbol: "cpim.jpeg",
+                    successSymbol: "cpim-success.png",
+                    candidateImgName: "rahimano.jpeg",
+                  },
+                  { id: 3, name: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
                   { id: 6, name: "", symbol: "" },
@@ -5078,10 +5312,14 @@ export const evmData = {
                 title: "Vote For എം ഗണേശൻ",
                 name: "കല്ല്യാശ്ശേരി ബ്ലോക്ക്പഞ്ചായത്ത് - ഇടക്കേപ്പുറം  ഡിവിഷൻ",
                 candidates: [
-                  { id: 1, name: "എം ഗണേശൻ", symbol: "cpim.jpeg",
+                  {
+                    id: 1,
+                    name: "എം ഗണേശൻ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "ganeshan.jpeg", },
-                  { id: 2, name: "",  },
+                    candidateImgName: "ganeshan.jpeg",
+                  },
+                  { id: 2, name: "" },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
@@ -5098,9 +5336,13 @@ export const evmData = {
                 name: "കണ്ണൂർ ജില്ലാ പഞ്ചായത്ത് - ചെറുകുന്ന് ഡിവിഷൻ",
                 candidates: [
                   { id: 1, name: "", symbol: "" },
-                  { id: 2, name: "എം വി ഷിമ", symbol: "cpim.jpeg",
+                  {
+                    id: 2,
+                    name: "എം വി ഷിമ",
+                    symbol: "cpim.jpeg",
                     successSymbol: "cpim-success.png",
-                    candidateImgName: "sheenacherukunnu.jpeg",  },
+                    candidateImgName: "sheenacherukunnu.jpeg",
+                  },
                   { id: 3, name: "", symbol: "" },
                   { id: 4, name: "", symbol: "" },
                   { id: 5, name: "", symbol: "" },
