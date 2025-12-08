@@ -23,7 +23,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "പി കെ മൊയ്തീൻ കുട്ടി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "moideen.jpeg",
                   },
@@ -45,7 +45,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ പ്രീത",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
@@ -73,7 +73,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -106,7 +106,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "സി പ്രദീപൻ മാസ്റ്റർ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pradeepan master.jpeg",
                   },
@@ -128,7 +128,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ പ്രീത",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
@@ -156,7 +156,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -195,7 +195,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "ഷമില്‍ പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shimil.jpeg",
                   },
@@ -216,7 +216,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ പ്രീത",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
@@ -244,7 +244,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -277,7 +277,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "രേഷ്മ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "reshma.jpeg",
                   },
@@ -299,7 +299,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ പ്രീത",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
@@ -327,7 +327,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -360,7 +360,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ. സുധാകരന്‍",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sudhakaran.jpeg",
                   },
@@ -382,7 +382,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ പ്രീത",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preetha.jpeg",
                   },
@@ -410,7 +410,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -443,7 +443,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ ബാലകൃഷ്ണന്‍",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "balakrishnan.jpeg",
                   },
@@ -470,7 +470,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -493,7 +493,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -558,7 +558,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -581,7 +581,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
@@ -615,7 +615,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "പത്മനാഭന്‍ വി സി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "patmanaban.jpeg",
                   },
@@ -642,7 +642,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -665,7 +665,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -704,7 +704,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "പ്രദീപന്‍ പട്ടേരി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pradeepanpatteri.jpeg",
                   },
@@ -730,7 +730,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -753,7 +753,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -786,7 +786,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി  ദിലീപൻ മാസ്റ്റർ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "dileepan.jpeg",
                   },
@@ -813,7 +813,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -836,7 +836,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -869,7 +869,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ജലജ പി പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "jalaja.jpeg",
                   },
@@ -896,7 +896,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -919,7 +919,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -951,7 +951,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ഡോ. ഓമന പങ്കന്‍",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "omana.jpeg",
                   },
@@ -983,7 +983,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -1006,7 +1006,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1039,7 +1039,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ ഭാര്‍ഗ്ഗവന്‍",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bargavan.jpeg",
                   },
@@ -1066,7 +1066,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ.സി. രേണുക",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "renukha.jpeg",
                   },
@@ -1089,7 +1089,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1122,7 +1122,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ജയശ്രീ വിജയന്‍",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "jayasree.jpeg",
                   },
@@ -1144,7 +1144,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1170,7 +1170,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1202,7 +1202,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ രാഘുനാഥൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "rakhunath.jpeg",
                   },
@@ -1229,7 +1229,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1255,7 +1255,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1287,7 +1287,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "അനിത മോഹന്‍ കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "anitha.jpeg",
                   },
@@ -1314,7 +1314,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1340,7 +1340,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1372,7 +1372,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "മിനി കെ വി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "mini.jpeg",
                   },
@@ -1399,7 +1399,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1425,7 +1425,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1458,7 +1458,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "സീത പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sita.jpeg",
                   },
@@ -1480,7 +1480,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1506,7 +1506,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1539,7 +1539,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "സി ഷൈനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shyni.jpeg",
                   },
@@ -1561,7 +1561,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1587,7 +1587,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1619,7 +1619,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "പി വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bhavani.jpeg",
                   },
@@ -1646,7 +1646,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "സി നാരായണി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "narayani.jpeg",
                   },
@@ -1672,7 +1672,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1715,7 +1715,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എൻ പി എഴിൽ രാജ് മാഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "ezhilraj.jpeg",
                   },
@@ -1749,7 +1749,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "എ വി സത്യൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "satyan.jpeg",
                   },
@@ -1771,7 +1771,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1813,7 +1813,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "പി കെ ശശിധരൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pksasidaran.jpeg",
                   },
@@ -1841,7 +1841,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "യു ഷൺമുഖൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shanmugan.jpeg",
                   },
@@ -1864,7 +1864,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "വി വി പവിത്രൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pavithran.jpeg",
                   },
@@ -1912,7 +1912,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "വിപിന ബി പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "vipinabp.jpeg",
                   },
@@ -1933,7 +1933,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2007,7 +2007,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "സജിത പി വി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "vipinabp.jpeg",
                   },
@@ -2028,7 +2028,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2123,7 +2123,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2187,7 +2187,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "അമ്മുക്കുട്ടി കെ സി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "ammukuttikc.jpeg",
                   },
@@ -2214,7 +2214,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2305,7 +2305,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2369,7 +2369,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ബിജു ടി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bijutchengalai.jpeg",
                   },
@@ -2396,7 +2396,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2470,7 +2470,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "ശൈലേഷ് ബാബു",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shyleshbabu.jpg",
                   },
@@ -2491,7 +2491,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2555,7 +2555,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "മഞ്ജു പ്രദീപ് ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "vipinabp.jpeg",
                   },
@@ -2582,7 +2582,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2646,7 +2646,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എൻ നാരായണൻ ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "nnarayananchangalai.jpg",
                   },
@@ -2673,7 +2673,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2747,7 +2747,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "പി കെ സിന്ധു ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "pksindhu.jpeg",
                   },
@@ -2768,7 +2768,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എ വി ഭവാനി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "avbhavani.jpeg",
                   },
@@ -2837,7 +2837,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "പി വി രാജൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "rajanchengalai.jpeg",
                   },
@@ -2863,7 +2863,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -2953,7 +2953,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3043,7 +3043,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3107,7 +3107,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ഭാസ്കരൻ എം കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "baskaranchengalai.jpeg",
                   },
@@ -3133,7 +3133,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3226,7 +3226,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3285,7 +3285,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എം വി ബിന്ദു ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindumvchengalai.jpeg",
                   },
@@ -3315,7 +3315,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3404,7 +3404,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3468,7 +3468,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "കെ കെ രവി മാസ്റ്റർ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "ravimaster.jpeg",
                   },
@@ -3494,7 +3494,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3583,7 +3583,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3651,7 +3651,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "കെ സുനീഷ് ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "ksuneesh.jpeg",
                   },
@@ -3676,7 +3676,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ബിന്ദു സുനീഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "bindusuneesh.jpg",
                   },
@@ -3748,7 +3748,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "സുരേഷ് ബാബു കെ കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sureshbabukk.jpeg",
                   },
@@ -3812,7 +3812,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "പി ആർ വേണു",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "venu.jpeg",
                   },
@@ -3876,7 +3876,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ഷീന കെ പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenaanthoor.jpeg",
                   },
@@ -3937,7 +3937,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "നിജില കെ വി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "nijila.jpeg",
                   },
@@ -3998,7 +3998,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ ഭരതൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "barathananthoor.jpeg",
                   },
@@ -4059,7 +4059,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "കെ ദിലീപൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "dileepananthoor.jpeg",
                   },
@@ -4125,7 +4125,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി കെ പ്രഭാകരൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "kavumbai.jpeg",
                   },
@@ -4185,7 +4185,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "പ്രീന അജയൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preena.jpeg",
                   },
@@ -4252,7 +4252,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "എം രാജേഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "rajeshnaduvil.jpeg",
                   },
@@ -4317,7 +4317,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "പ്രസന്ന കെ ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "prasanecherukunnu.jpeg",
                   },
@@ -4392,7 +4392,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "അബ്ദുൽ സലാം വി പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "abdulsalam.jpeg",
                   },
@@ -4469,7 +4469,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "കെ മോഹനൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "kmohan.jpeg",
                   },
@@ -4491,7 +4491,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4514,7 +4514,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4543,7 +4543,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം ശൈലജ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shylajacherukunnuu.jpeg",
                   },
@@ -4566,7 +4566,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4589,7 +4589,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4617,7 +4617,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ലത പി കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "lathapk.jpeg",
                   },
@@ -4641,7 +4641,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4664,7 +4664,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4692,7 +4692,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "അനിത മഗേഷ്",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "anithamagesh.jpeg",
                   },
@@ -4716,7 +4716,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4739,7 +4739,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4767,7 +4767,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "ഷാജി കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "shajik.jpeg",
                   },
@@ -4791,7 +4791,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4814,7 +4814,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4843,7 +4843,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "പ്രീത ഇ വി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "preethacherukunnu.jpeg",
                   },
@@ -4866,7 +4866,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4889,7 +4889,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4918,7 +4918,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "മോഹനൻ കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "mohanancherukunnu.jpeg",
                   },
@@ -4941,7 +4941,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -4964,7 +4964,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -4993,7 +4993,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "സുനിത പി",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sunithap.jpeg",
                   },
@@ -5016,7 +5016,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -5039,7 +5039,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -5069,7 +5069,7 @@ export const evmData = {
                   {
                     id: 3,
                     name: "ഹരിദാസൻ കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "haridasank.jpeg",
                   },
@@ -5091,7 +5091,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -5114,7 +5114,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -5166,7 +5166,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "ടി നിഷ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "tnisha.jpeg",
                   },
@@ -5189,7 +5189,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -5218,7 +5218,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "സരസ്വതി കെ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "saraswatik.jpeg",
                   },
@@ -5240,7 +5240,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എം ഗണേശൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "ganeshan.jpeg",
                   },
@@ -5264,7 +5264,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
@@ -5293,7 +5293,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "അബ്ദുൽ റഹിമാൻ ഓ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "rahimano.jpeg",
                   },
@@ -5315,7 +5315,7 @@ export const evmData = {
                   {
                     id: 1,
                     name: "എം ഗണേശൻ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "ganeshan.jpeg",
                   },
@@ -5339,7 +5339,7 @@ export const evmData = {
                   {
                     id: 2,
                     name: "എം വി ഷിമ",
-                    symbol: "cpim.jpeg",
+                    symbol: "cpim.jpg",
                     successSymbol: "cpim-success.png",
                     candidateImgName: "sheenacherukunnu.jpeg",
                   },
