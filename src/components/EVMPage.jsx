@@ -244,20 +244,25 @@ const EVMPage = () => {
                   }}
                 />
               ) : (
-                <div
-                  style={{
-                    width: "100%",
-                    aspectRatio: "1/1",
-                    borderRadius: "15px",
-                    backgroundColor: "#E5E7EB",
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    fontSize: "4rem",
-                  }}
-                >
-                  ✅
-                </div>
+                // if no candidate image, show symbol instead
+                selectedCandidate?.symbol && (
+                  <img
+                    src={`/symbols/${selectedCandidate.symbol}`}
+                    alt={selectedCandidate.name}
+                    style={{
+                      width: "100%",
+                      aspectRatio: "1/1",
+                      objectFit: "contain",
+                      borderRadius: "15px",
+                      display: "block",
+                      backgroundColor: "#f9fafb",
+                      padding: "20px",
+                    }}
+                    onError={(e) => {
+                      e.target.style.display = "none";
+                    }}
+                  />
+                )
               )}
 
               {/* VOTED Badge (Top Right inside image) */}
